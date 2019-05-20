@@ -20,6 +20,7 @@ public class Pirate {
     @Column(name = "age")
     private int age;
 
+
     private Ship ship;
 
 
